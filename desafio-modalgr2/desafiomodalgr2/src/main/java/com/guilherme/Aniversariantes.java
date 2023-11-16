@@ -15,7 +15,7 @@ import java.util.Date;
 public class Aniversariantes {
     public static void main(String[] args) {
 
-        // os caminho para os arquivo de texto devem ser trocados
+        // os caminhos para os arquivos de texto devem ser trocados
         String listaConsultores = "C:\\Users\\pichau\\Documents\\desafio-modalgr2\\desafiomodalgr2\\lista_consultores.txt";
         String listaAniversariantes = "C:\\Users\\pichau\\Documents\\desafio-modalgr2\\desafiomodalgr2\\aniversariantesDoMes.txt";
 
